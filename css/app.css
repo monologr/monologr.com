@@ -1,0 +1,16 @@
+
+body {
+    background-color: #660BAB;
+}
+
+#page_header {
+    font-family: 'Bangers', cursive;
+    font-size: 100px;
+    color: #C30083;
+    text-align: center;
+}
+
+#page_header_subtext {
+    color: #C30083;
+    text-align: center;
+}
