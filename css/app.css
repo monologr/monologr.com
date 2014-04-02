@@ -8,9 +8,18 @@ body {
     font-size: 100px;
     color: #C30083;
     text-align: center;
+    margin-bottom: 10px;
 }
 
 #page_header_subtext {
+    font-family: 'Bangers', cursive;
+    font-size: 20px;
+    font-style: italic;
+    color: #C30083;
+    text-align: center;
+}
+
+#coming_soon {
     color: #C30083;
     text-align: center;
 }
